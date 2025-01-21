@@ -8,13 +8,13 @@ export const aulas = [
         title: 'Fazendeiro de Sucesso #1',
         description: 'Aula 1 - Como começar uma fazenda do zero e ter sucesso',
         date: '21/01 às 19h',
-        link: 'https://youtu.be/xqm5f9mQQxw?sidfsdfsdf=gXm4kVEXle0dn4sJ' 
+        link: 'https://youtu.be/fAXpNW5fuC4?si=-qWvjI5U4_aEEB1111123wo' 
     },
     {
         title: 'Fazendeiro de Sucesso #2',
         description: 'Aula 2 - Avançando na gestão da fazenda',
         date: '23/01 às 19h',
-        link: 'https://youtu.be/ca6wp8tiLHY?si=7nuOdsfsfdwviQ3OzDHYBh' 
+        link: 'https://youtu.be/fAXpNW5fuC4?si=-qWvjI5U4_a123123EEBwo' 
     },
     {
         title: 'Fazendeiro de Sucesso #3',
