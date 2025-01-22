@@ -15,7 +15,7 @@ export default function AbrindoAPorteirav2() {
         title="O que fez a Fazenda África se tornar uma das maiores referências de agronegócio no Piauí?"
         subtitle={
           <>
-            Vamos revelar 5 estratégias essenciais para estruturar uma fazenda do zero e garantir resultados impressionantes.
+            Vamos revelar <span className="text-[#2cce5a]">5 estratégias essenciais</span> para estruturar uma fazenda do zero e garantir resultados impressionantes.
           </>
         }
       />
