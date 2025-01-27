@@ -32,7 +32,7 @@ export default function VideoPlayer({ link }: VideoPlayerProps) {
                         src={link}
                         title="YouTube video player"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        className={`w-full h-full rounded-lg ${isLoading ? "hidden" : ""}`}
+                        className={`h-[500px] w-full md:h-full rounded-lg ${isLoading ? "hidden" : ""}`}
                         allowFullScreen
                         onLoad={() => setIsLoading(false)}
                     />
