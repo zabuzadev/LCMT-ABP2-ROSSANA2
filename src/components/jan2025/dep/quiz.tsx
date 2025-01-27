@@ -38,7 +38,7 @@ export default function Quiz() {
       return (
         <Dialog open={open} onOpenChange={setOpen}>
           <DialogTrigger asChild>
-            <Button className="bg-quaternary hover:bg-[#15468F] text-zinc-950 hover:text-white text-base py-6 px-6 rounded-xl shadow-xl transition-all w-full md:w-auto max-w-lg text-center">
+            <Button className="bg-quaternary text-wrap hover:bg-[#15468F] text-zinc-950 hover:text-white text-base py-6 px-6 rounded-xl shadow-xl transition-all w-full md:w-auto max-w-lg text-center">
               Quero descobrir em qual estágio está minha fazenda
             </Button>
           </DialogTrigger>
@@ -60,7 +60,7 @@ export default function Quiz() {
     return (
       <Drawer open={open} onOpenChange={setOpen}>
         <DrawerTrigger asChild>
-            <Button className="bg-quaternary hover:bg-[#15468F] text-zinc-950 hover:text-white text-base py-6 px-6 rounded-xl shadow-xl transition-all w-full md:w-auto max-w-lg text-center">
+            <Button className="bg-quaternary text-wrap hover:bg-[#15468F] text-zinc-950 hover:text-white text-base py-6 px-6 rounded-xl shadow-xl transition-all w-full md:w-auto max-w-lg text-center">
             Quero descobrir em qual estágio está minha fazenda
             </Button>
         </DrawerTrigger>
