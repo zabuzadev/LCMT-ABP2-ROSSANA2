@@ -38,13 +38,13 @@ export default function Teatro() {
 
     return (
         <div className="container mx-auto py-4 max-w-6xl px-4">
-            <h1 className="text-white text-lg font-bold mb-12">
+            <h1 className="text-white text-lg font-bold mb-12 text-center">
                 Até lá, veja como as
                 <span className="text-secondary"> estratégias que aplicamos </span>
-                na Fazenda África funciona de fato…
+                na Fazenda África funcionam de fato…
             </h1>
 
-            <div className="flex flex-col md:flex-row justify-center gap-4 items-center">
+            <div className="flex flex-col md:flex-row justify-center gap-2 items-center">
 
                 <VideoPlayer link={selectedLink} />
 
