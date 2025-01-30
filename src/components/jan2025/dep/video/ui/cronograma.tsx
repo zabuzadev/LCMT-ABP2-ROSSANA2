@@ -10,7 +10,7 @@ export const aulas = [
         link: 'https://www.youtube.com/embed/7vYy---IJK0'
     },
     {
-        title: 'Em breve - Fazendeiro de Sucesso #2',
+        title: 'Fazendeiro de Sucesso #2',
         description: 'Aula 2 - Avançando na gestão da fazenda',
         date: '29/01 às 19h',
         link: 'https://www.youtube.com/embed/IlVw0RBrFMw'
